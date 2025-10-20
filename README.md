@@ -1,16 +1,37 @@
-## Hi there 👋
+# Kia ora, i’m Arnold Aristotle Tayag
+# Master of Software Engineering | IT Project Manager | Senior DBA | App/DB/OS Tuner/Profiler | Cloud & Cybersecurity Enthusiast
 
-<!--
-**aamtayag/aamtayag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
+1. I have over 12 years of experience in enterprise IT — from software dev't and database administration to cloud migration, system administration, app/db performance tuning, & DevOps automation.
+2. I have industry-relevant certifications to back my career experience:
+   | Certification Name                      | Issuing Organization                                                        | Validity             |
+   |-----------------------------------------|-----------------------------------------------------------------------------|----------------------|
+   | Security+                               | CompTIA (Computing Technology Industry Association)                         | Oct 2025 - Oct 2028  |
+   | Certified in Cybersecurity (CC)         | ISC2 (International Information System Security Certification Consortium)   | Feb 2025 - Feb 2028  |
+   | PMP (Project Management Professional)   | PMI (Project Management Institute)                                          | Nov 2024 - Nov 2027  |
+   | PMI-ACP (Agile Certified Professional)  | PMI (Project Management Institute)                                          | Sep 2024 - Sep 2027  |
+   | CSM (Certified Scrum Master)            | Scrum Alliance                                                              | Jun 2024 - Jun 2026  |
+   | MariaDB Certified DB Administrator      | MariaDB Corporation                                                         | n/a                  | 
+   | Responsive Web Design Developer Cert    | freeCodeCamp                                                                | n/a                  |
+   |-----------------------------------------|-----------------------------------------------------------------------------|----------------------|
+3. I plan to pursue further certifications in Cybersecurity (CISA, CISM, CISSP) and establish my own consulting company
 
-Here are some ideas to get you started:
+### Technical Areas
+- Database Management (MariaDB, MySQL, Oracle, MSSQL)
+- Cloud Infrastructure (AWS, Azure)
+- DevOps & Automation (Bash, Python, CI/CD)
+- Application Performance & Monitoring
+- Agile Delivery Tools and Scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Repositories
+| Project                                                                                     | Description                                           | Tech                    |
+|---------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------|
+| [automation-generic]
+| [db-performance-tuning](https://github.com/aamtayag/db-performance-tuning)                  | SQL profiling, indexing, and optimization scripts     | SQL, Bash               |
+| [cloud-infra-automation](https://github.com/aamtayag/cloud-infra-automation)                | IaC templates and provisioning scripts for AWS EC2    | Python, YAML            |
+| [devops-tools](https://github.com/aamtayag/devops-tools)                                    | Sample CI/CD pipelines and automation                 | GitHub Actions, Bash    |
+| [project-metrics-dashboard](https://github.com/aamtayag/project-metrics-dashboard)          | Dashboard for tracking sprint progress                | Flask, Chart.js         |
+
+#### Let's connect: ** [LinkedIn] (https://www.linkedin.com/in/arnold-aristotle-tayag-3bb40922) | [Credly] (https://www.credly.com/users/arnold-aristotle-tayag.379b0e45)
+
+
