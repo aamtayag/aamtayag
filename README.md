@@ -36,6 +36,5 @@
 | [devops-tools](https://github.com/aamtayag/devops-tools)                                 | Sample CI/CD pipelines and automation                 | GitHub Actions, Bash                           |
 | [project-metrics-dashboard](https://github.com/aamtayag/project-metrics-dashboard)       | Dashboard for tracking sprint progress                | Flask, Chart.js                                |
 
-#### Let's connect: ** [LinkedIn] (https://www.linkedin.com/in/arnold-aristotle-tayag-3bb40922) | [Credly] (https://www.credly.com/users/arnold-aristotle-tayag.379b0e45)
 
 
