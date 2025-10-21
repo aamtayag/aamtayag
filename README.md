@@ -6,7 +6,7 @@
 2. I have industry-relevant certifications to back my career experience:
    | Certification Name                           | Issuing Organization                                                        | Validity              |
    |----------------------------------------------|-----------------------------------------------------------------------------|-----------------------|
-   | Security+                                    | CompTIA (Computing Technology Industry Association)                         |  Oct 2025 - Oct 2028  |
+   | Security+ (SYO-701)                          | CompTIA (Computing Technology Industry Association)                         |  Oct 2025 - Oct 2028  |
    | Certified in Cybersecurity (CC)              | ISC2 (International Information System Security Certification Consortium)   |  Feb 2025 - Feb 2028  |
    | PMP (Project Management Professional)        | PMI (Project Management Institute)                                          |  Nov 2024 - Nov 2027  |
    | PMI-ACP (Agile Certified Professional)       | PMI (Project Management Institute)                                          |  Sep 2024 - Sep 2027  |
