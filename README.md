@@ -14,7 +14,7 @@
    | Responsive Web Design Developer Cert         | freeCodeCamp                                                                |  Mar 2025 - n/a       |
    | MariaDB Certified DB Administrator           | MariaDB Corporation                                                         |  Dec 2019 - n/a       | 
    | Certified Solutions Architect-Associate      | Amazon Web Services                                                         |  Mar 2018 - Mar 2020  |
-   | Certified Database Administration-Associate  | Oracle Corporation                                                          |  Expired              |
+   | Certified Database Administration-Associate  | Oracle Corporation                                                          |  Apr 2017 - Apr 2019  |
 3. Future plans include pursuing further certifications in Cybersecurity (CISA, CISM, CISSP) and establishing my own IT Consulting company
 
 ### Technical Areas:
