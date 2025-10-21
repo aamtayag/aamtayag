@@ -30,6 +30,7 @@
 | [MSE-capstone-project](https://github.com/aamtayag/mse_capstone_project.git)             | Master of Software Engineering Capstone Project       | Node.js/Express, Javascript/HTML/CSS/Bootstrap |
 | [mariadb-mysql-DBA-scripts](https://github.com/aamtayag/mariadb-mysql-admin-scripts.git) | MariaDB/MySQL DB Admin Scripts                        | MariaDB, MySQL, Bash, Cron, Chef               |
 | [oracle-DBA-scripts](https://github.com/aamtayag/oracle_admin_scripts.git)               | Oracle DB Admin Scripts                               | Oracle 19c, Bash, Cron, Chef                   |
+| [responsive_web_design](https://github.com/aamtayag/responsive_web_design.git)           | Responsive HTML Pages using only CSS/Bootstrap        | HTML5, CSS3, Bootstrap5                        |
 | [db-performance-tuning](https://github.com/aamtayag/db-performance-tuning)               | SQL profiling, indexing, and optimization scripts     | SQL, Bash                                      |
 | [cloud-infra-automation](https://github.com/aamtayag/cloud-infra-automation)             | IaC templates and provisioning scripts for AWS EC2    | Python, YAML                                   |
 | [devops-tools](https://github.com/aamtayag/devops-tools)                                 | Sample CI/CD pipelines and automation                 | GitHub Actions, Bash                           |
