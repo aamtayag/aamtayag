@@ -28,7 +28,7 @@
 |------------------------------------------------------------------------------------------|-------------------------------------------------------|------------------------------------------------|
 | [automation-generic](https://github.com/aamtayag/automation_generic.git)                 | Generic automation scripts                            | Python, Bash, Cron, Chef                       |
 | [MSE-capstone-project](https://github.com/aamtayag/mse_capstone_project.git)             | Master of Software Engineering Capstone Project       | Node.js/Express, Javascript/HTML/CSS/Bootstrap |
-| [mariadb-mysql-DBA-scripts](https://github.com/aamtayag/mariadb-mysql-admin-scripts.git) |                                                       |                                                |
+| [mariadb-mysql-DBA-scripts](https://github.com/aamtayag/mariadb-mysql-admin-scripts.git) | MariaDB/MySQL DB Admin Scripts                        | MariaDB, MySQL, Bash, Cron, Chef               |
 | [db-performance-tuning](https://github.com/aamtayag/db-performance-tuning)               | SQL profiling, indexing, and optimization scripts     | SQL, Bash                                      |
 | [cloud-infra-automation](https://github.com/aamtayag/cloud-infra-automation)             | IaC templates and provisioning scripts for AWS EC2    | Python, YAML                                   |
 | [devops-tools](https://github.com/aamtayag/devops-tools)                                 | Sample CI/CD pipelines and automation                 | GitHub Actions, Bash                           |
