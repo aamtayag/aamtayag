@@ -1,4 +1,4 @@
-# Greetings, my name is Arnold Aristotle Tayag
+# Arnold Aristotle Tayag
 # Master of Software Engineering | IT Project Manager | Senior DBA | App/DB/OS Tuner/Profiler | Cloud & Cybersecurity Enthusiast
 
 ### About Me:
