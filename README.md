@@ -10,7 +10,7 @@
    | Certified in Cybersecurity (CC)              | ISC2 (International Information System Security Certification Consortium)   |  Feb 2025 - Feb 2028  |
    | PMP (Project Management Professional)        | PMI (Project Management Institute)                                          |  Nov 2024 - Nov 2027  |
    | PMI-ACP (Agile Certified Professional)       | PMI (Project Management Institute)                                          |  Sep 2024 - Sep 2027  |
-   | CSM (Certified Scrum Master)                 | Scrum Alliance                                                              |  Jun 2024 - Jun 2026  |
+   | CSM (Certified Scrum Master)                 | Scrum Alliance                                                              |  Jun 2024 - Jun 2026 (renewed)  |
    | Responsive Web Design Developer Cert         | freeCodeCamp                                                                |  Mar 2025 - n/a       |
    | MariaDB Certified DB Administrator           | MariaDB Corporation                                                         |  Dec 2019 - n/a       | 
    | Certified Solutions Architect-Associate      | Amazon Web Services                                                         |  Mar 2018 - Mar 2020  |
