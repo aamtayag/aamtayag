@@ -33,9 +33,6 @@
 | [mariadb-mysql-dba-scripts](https://github.com/aamtayag/mariadb-mysql-admin-scripts.git) | MariaDB/MySQL DB Admin Scripts                        | MariaDB, MySQL, SQL, Bash, Cron, Chef          |
 | [oracle-dba-scripts](https://github.com/aamtayag/oracle_admin_scripts.git)               | Oracle DB Admin Scripts, SQL profiling, indexing, and optimization scripts    | Oracle 19c, SQL, AWR, Bash, Cron, Chef         |
 | [responsive_web_design](https://github.com/aamtayag/responsive_web_design.git)           | Responsive HTML Pages using only CSS/Bootstrap        | HTML5, CSS3, Bootstrap5                        |
-| [cloud-infra-automation](https://github.com/aamtayag/cloud-infra-automation)             | IaC templates and provisioning scripts for AWS EC2    | Python, YAML                                   |
-| [devops-tools](https://github.com/aamtayag/devops-tools)                                 | Sample CI/CD pipelines and automation                 | GitHub Actions, Bash                           |
-| [project-metrics-dashboard](https://github.com/aamtayag/project-metrics-dashboard)       | Dashboard for tracking sprint progress                | Flask, Chart.js                                |
 
 
 
