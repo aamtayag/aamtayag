@@ -4,22 +4,23 @@
 ### About Me:
 1. I have over 12 years of experience in enterprise IT — from software dev't and database administration to cloud migration, system administration, app/db performance tuning, & DevOps automation.
 2. I have industry-relevant certifications to back my career experience:
-   | Certification Name                      | Issuing Organization                                                        | Validity             |
-   |-----------------------------------------|-----------------------------------------------------------------------------|----------------------|
-   | Security+                               | CompTIA (Computing Technology Industry Association)                         | Oct 2025 - Oct 2028  |
-   | Certified in Cybersecurity (CC)         | ISC2 (International Information System Security Certification Consortium)   | Feb 2025 - Feb 2028  |
-   | PMP (Project Management Professional)   | PMI (Project Management Institute)                                          | Nov 2024 - Nov 2027  |
-   | PMI-ACP (Agile Certified Professional)  | PMI (Project Management Institute)                                          | Sep 2024 - Sep 2027  |
-   | CSM (Certified Scrum Master)            | Scrum Alliance                                                              | Jun 2024 - Jun 2026  |
-   | MariaDB Certified DB Administrator      | MariaDB Corporation                                                         | n/a                  | 
-   | Responsive Web Design Developer Cert    | freeCodeCamp                                                                | n/a                  |
-   | Certified Solutions Architect-Associate | Amazon Web Services                                                         | Expired              |
+   | Certification Name                           | Issuing Organization                                                        | Validity             |
+   |----------------------------------------------|-----------------------------------------------------------------------------|----------------------|
+   | Security+                                    | CompTIA (Computing Technology Industry Association)                         | Oct 2025 - Oct 2028  |
+   | Certified in Cybersecurity (CC)              | ISC2 (International Information System Security Certification Consortium)   | Feb 2025 - Feb 2028  |
+   | PMP (Project Management Professional)        | PMI (Project Management Institute)                                          | Nov 2024 - Nov 2027  |
+   | PMI-ACP (Agile Certified Professional)       | PMI (Project Management Institute)                                          | Sep 2024 - Sep 2027  |
+   | CSM (Certified Scrum Master)                 | Scrum Alliance                                                              | Jun 2024 - Jun 2026  |
+   | MariaDB Certified DB Administrator           | MariaDB Corporation                                                         | n/a                  | 
+   | Responsive Web Design Developer Cert         | freeCodeCamp                                                                | n/a                  |
+   | Certified Solutions Architect-Associate      | Amazon Web Services                                                         | Expired              |
+   | Certified Database Administration-Associate  | Oracle Corporation                                                          | Expired              |
 3. Future plans include pursuing further certifications in Cybersecurity (CISA, CISM, CISSP) and establishing my own consulting company
 
 ### Technical Areas
 - Software Development (Python, Full-stack Frameworks, HTML/CSS/Bootstrap, ReactJS)
 - Database Management (MariaDB, MySQL, Oracle, MSSQL)
-- Cloud Infrastructure (AWS, Azure)
+- Cloud Infrastructure (AWS, Azure)   
 - DevOps & Automation (Bash, Python, CI/CD, Chef/Ansible/Puppet)
 - Application Performance & Monitoring
 - Agile Delivery Tools and Scripts
