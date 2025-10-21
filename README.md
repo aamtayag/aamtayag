@@ -17,7 +17,7 @@
    | Certified Database Administration-Associate  | Oracle Corporation                                                          |  Expired              |
 3. Future plans include pursuing further certifications in Cybersecurity (CISA, CISM, CISSP) and establishing my own IT Consulting company
 
-### Technical Areas
+### Technical Areas:
 - Software Development (Python, Full-stack Frameworks, HTML/CSS/Bootstrap, ReactJS)
 - Database Management (MariaDB, MySQL, Oracle, MSSQL)
 - Cloud Infrastructure (AWS, Azure)   
@@ -25,7 +25,7 @@
 - Application Performance & Monitoring
 - Agile Delivery Tools and Scripts
 
-### Featured Repositories
+### Featured Repositories:
 | Project                                                                                  | Description                                           | Tech                                           |
 |------------------------------------------------------------------------------------------|-------------------------------------------------------|------------------------------------------------|
 | [automation-generic](https://github.com/aamtayag/automation_generic.git)                 | Generic automation scripts                            | Python, Bash, Cron, Chef                       |
