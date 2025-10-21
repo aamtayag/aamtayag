@@ -13,6 +13,7 @@
    | CSM (Certified Scrum Master)            | Scrum Alliance                                                              | Jun 2024 - Jun 2026  |
    | MariaDB Certified DB Administrator      | MariaDB Corporation                                                         | n/a                  | 
    | Responsive Web Design Developer Cert    | freeCodeCamp                                                                | n/a                  |
+   | Certified Solutions Architect-Associate | Amazon Web Services                                                         | Expired              |
 3. Future plans include pursuing further certifications in Cybersecurity (CISA, CISM, CISSP) and establishing my own consulting company
 
 ### Technical Areas
@@ -35,6 +36,7 @@
 | [cloud-infra-automation](https://github.com/aamtayag/cloud-infra-automation)             | IaC templates and provisioning scripts for AWS EC2    | Python, YAML                                   |
 | [devops-tools](https://github.com/aamtayag/devops-tools)                                 | Sample CI/CD pipelines and automation                 | GitHub Actions, Bash                           |
 | [project-metrics-dashboard](https://github.com/aamtayag/project-metrics-dashboard)       | Dashboard for tracking sprint progress                | Flask, Chart.js                                |
+
 
 
 
