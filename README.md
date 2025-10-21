@@ -15,7 +15,7 @@
    | Responsive Web Design Developer Cert         | freeCodeCamp                                                                | n/a                  |
    | Certified Solutions Architect-Associate      | Amazon Web Services                                                         | Expired              |
    | Certified Database Administration-Associate  | Oracle Corporation                                                          | Expired              |
-3. Future plans include pursuing further certifications in Cybersecurity (CISA, CISM, CISSP) and establishing my own consulting company
+3. Future plans include pursuing further certifications in Cybersecurity (CISA, CISM, CISSP) and establishing my own IT Consulting company
 
 ### Technical Areas
 - Software Development (Python, Full-stack Frameworks, HTML/CSS/Bootstrap, ReactJS)
