@@ -32,7 +32,7 @@
 | [mariadb-mysql-dba-scripts](https://github.com/aamtayag/mariadb-mysql-admin-scripts.git) | MariaDB/MySQL DB Admin Scripts                        | MariaDB, MySQL, SQL, Bash, Cron, Chef          |
 | [responsive_web_design](https://github.com/aamtayag/responsive_web_design.git)           | Responsive HTML Pages using only CSS/Bootstrap        | HTML5, CSS3, Bootstrap5                        |
 | [cloud-infra-automation](https://github.com/aamtayag/cloud-infra-automation)             | IaC templates and provisioning scripts for AWS        | Python, YAML                                   |
-| [automation-generic](https://github.com/aamtayag/automation_generic.git)                 | Generic automation scripts                            | Python, Bash, Cron, Chef/Ansible/Puppet        |
+| [automation-generic](https://github.com/aamtayag/automation_generic.git)                 | Generic automation scripts                            | Python, Bash, PowerShell, cron, Chef/Ansible/Puppet  |
 | [oracle-dba-scripts](https://github.com/aamtayag/oracle_admin_scripts.git)               | Oracle DB Admin Scripts, SQL profiling, indexing, and optimization scripts    | Oracle 19c, SQL, AWR, Bash, Cron, Chef         |
 
 
