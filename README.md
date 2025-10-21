@@ -24,15 +24,15 @@
 - Agile Delivery Tools and Scripts
 
 ### Featured Repositories
-| Project                                                                                 | Description                                           | Tech                                           |
-|-----------------------------------------------------------------------------------------|-------------------------------------------------------|------------------------------------------------|
-| [automation-generic](https://github.com/aamtayag/automation_generic.git)                | Generic automation scripts                            | Python, Bash, Cron, Chef                       |
-| [MSE-capstone-project](https://github.com/aamtayag/mse_capstone_project.git)            | Master of Software Engineering Capstone Project       | Node.js/Express, Javascript/HTML/CSS/Bootstrap |
-| [mariadb-mysql-DBA-scripts](https://github.com/aamtayag/mariadb-mysql-admin-scripts.git |                                                       |                                                |
-| [db-performance-tuning](https://github.com/aamtayag/db-performance-tuning)              | SQL profiling, indexing, and optimization scripts     | SQL, Bash                                      |
-| [cloud-infra-automation](https://github.com/aamtayag/cloud-infra-automation)            | IaC templates and provisioning scripts for AWS EC2    | Python, YAML                                   |
-| [devops-tools](https://github.com/aamtayag/devops-tools)                                | Sample CI/CD pipelines and automation                 | GitHub Actions, Bash                           |
-| [project-metrics-dashboard](https://github.com/aamtayag/project-metrics-dashboard)      | Dashboard for tracking sprint progress                | Flask, Chart.js                                |
+| Project                                                                                  | Description                                           | Tech                                           |
+|------------------------------------------------------------------------------------------|-------------------------------------------------------|------------------------------------------------|
+| [automation-generic](https://github.com/aamtayag/automation_generic.git)                 | Generic automation scripts                            | Python, Bash, Cron, Chef                       |
+| [MSE-capstone-project](https://github.com/aamtayag/mse_capstone_project.git)             | Master of Software Engineering Capstone Project       | Node.js/Express, Javascript/HTML/CSS/Bootstrap |
+| [mariadb-mysql-DBA-scripts](https://github.com/aamtayag/mariadb-mysql-admin-scripts.git) |                                                       |                                                |
+| [db-performance-tuning](https://github.com/aamtayag/db-performance-tuning)               | SQL profiling, indexing, and optimization scripts     | SQL, Bash                                      |
+| [cloud-infra-automation](https://github.com/aamtayag/cloud-infra-automation)             | IaC templates and provisioning scripts for AWS EC2    | Python, YAML                                   |
+| [devops-tools](https://github.com/aamtayag/devops-tools)                                 | Sample CI/CD pipelines and automation                 | GitHub Actions, Bash                           |
+| [project-metrics-dashboard](https://github.com/aamtayag/project-metrics-dashboard)       | Dashboard for tracking sprint progress                | Flask, Chart.js                                |
 
 #### Let's connect: ** [LinkedIn] (https://www.linkedin.com/in/arnold-aristotle-tayag-3bb40922) | [Credly] (https://www.credly.com/users/arnold-aristotle-tayag.379b0e45)
 
