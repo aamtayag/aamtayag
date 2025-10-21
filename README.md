@@ -11,9 +11,9 @@
    | PMP (Project Management Professional)        | PMI (Project Management Institute)                                          | Nov 2024 - Nov 2027  |
    | PMI-ACP (Agile Certified Professional)       | PMI (Project Management Institute)                                          | Sep 2024 - Sep 2027  |
    | CSM (Certified Scrum Master)                 | Scrum Alliance                                                              | Jun 2024 - Jun 2026  |
-   | MariaDB Certified DB Administrator           | MariaDB Corporation                                                         | n/a                  | 
-   | Responsive Web Design Developer Cert         | freeCodeCamp                                                                | n/a                  |
-   | Certified Solutions Architect-Associate      | Amazon Web Services                                                         | Expired              |
+   | Responsive Web Design Developer Cert         | freeCodeCamp                                                                | Mar 2025 - n/a       |
+   | MariaDB Certified DB Administrator           | MariaDB Corporation                                                         | Dec 2019 - n/a       | 
+   | Certified Solutions Architect-Associate      | Amazon Web Services                                                         | Mar 2018 - Mar 2020  |
    | Certified Database Administration-Associate  | Oracle Corporation                                                          | Expired              |
 3. Future plans include pursuing further certifications in Cybersecurity (CISA, CISM, CISSP) and establishing my own IT Consulting company
 
