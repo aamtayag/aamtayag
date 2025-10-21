@@ -28,7 +28,7 @@
 ### Featured Repositories:
 | Project                                                                                  | Description                                           | Tech                                           |
 |------------------------------------------------------------------------------------------|-------------------------------------------------------|------------------------------------------------|
-| [mse-capstone-project](https://github.com/aamtayag/mse_capstone_project.git)             | Master of Software Engineering Capstone Project       | Node.js/Express, Javascript/HTML/CSS/Bootstrap |
+| [mse-capstone-project](https://github.com/aamtayag/mse_capstone_project.git)             | Master of Software Engineering Capstone Project       | Node.js/Express, Javascript/HTML/CSS/Bootstrap, Google Maps API integration |
 | [cloud-infra-automation](https://github.com/aamtayag/cloud-infra-automation)             | IaC templates and provisioning scripts for AWS        | Python, YAML                                   |
 | [automation-generic](https://github.com/aamtayag/automation_generic.git)                 | Generic automation scripts                            | Python, Bash, Cron, Chef/Ansible/Puppet        |
 | [responsive_web_design](https://github.com/aamtayag/responsive_web_design.git)           | Responsive HTML Pages using only CSS/Bootstrap        | HTML5, CSS3, Bootstrap5                        |
