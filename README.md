@@ -18,11 +18,12 @@
 3. Future plans include pursuing further certifications in Cybersecurity (CISA, CISM, CISSP) and establishing my own IT Consulting company
 
 ### Technical Areas:
-- Software Development (Python, Full-stack Frameworks, HTML/CSS/Bootstrap)
-- Database Management (MariaDB, MySQL, Oracle, MSSQL)
+- Software Development (Java, Python, Full-stack Frameworks, HTML/CSS/Bootstrap)
+- Database Management (MariaDB, MySQL, Oracle, MSSQL, DynamoDB-NoSQL)
 - Cloud Infrastructure (AWS, Azure)   
-- DevOps & Automation (Bash, Python, CI/CD, Chef/Ansible/Puppet)
-- Application Performance & Monitoring
+- DevOps & Automation (Bash, Python, PowerShell, CI/CD, Chef/Ansible/Puppet)
+- Application/Database Performance & Monitoring
+- Unix/Linux (Solaris, AIX, RHEL, Ubuntu)
 - Agile Delivery Tools and Scripts
 
 ### Featured Repositories:
