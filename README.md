@@ -6,6 +6,7 @@
 2. I have industry-relevant certifications to back my career experience:
    | Certification Name                           | Issuing Organization                                                        | Validity              |
    |----------------------------------------------|-----------------------------------------------------------------------------|-----------------------|
+   | Network+ (N10-009)                           | CompTIA (Computing Technology Industry Association)                         |  Jan 2026 - Jan 2029  |
    | Security+ (SYO-701)                          | CompTIA (Computing Technology Industry Association)                         |  Oct 2025 - Oct 2028  |
    | Certified in Cybersecurity (CC)              | ISC2 (International Information System Security Certification Consortium)   |  Feb 2025 - Feb 2028  |
    | PMP (Project Management Professional)        | PMI (Project Management Institute)                                          |  Nov 2024 - Nov 2027  |
@@ -15,7 +16,7 @@
    | MariaDB Certified Database Administrator     | MariaDB Corporation                                                         |  Dec 2019 - n/a       | 
    | Certified Solutions Architect-Associate      | AWS (Amazon Web Services)                                                   |  Mar 2018 - Mar 2021  |
    | Certified Database Administration-Associate  | Oracle Corporation                                                          |  Apr 2017 - Apr 2019  |
-3. Future plans include pursuing further certifications in Cybersecurity (CISA, CISM, CISSP) and establishing my own IT Consulting company
+4. Future plans include pursuing further certifications in Cybersecurity (CISA, CISM, CISSP) and establishing my own IT Consulting company
 
 ### Technical Areas:
 - Software Development (Java, Python, Full-stack Frameworks, HTML/CSS/Bootstrap)
