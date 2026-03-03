@@ -1,5 +1,5 @@
 # Arnold Aristotle Tayag
-# Master of Software Engineering | IT Project Manager | Senior DBA | App/DB/OS Tuner/Profiler | Cloud & Cybersecurity Enthusiast
+# Developer, IT Project Manager, DBA | Cloud & Infrastructure Transformation | Cybersecurity | Banking, Government, Telecommunications
 
 ### About Me:
 1. I have over 12 years of experience in enterprise IT — from software dev't and database administration to cloud migration, system administration, app/db performance tuning, & DevOps automation.
