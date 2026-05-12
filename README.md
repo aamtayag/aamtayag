@@ -2,21 +2,22 @@
 # Developer, IT Project Manager, DBA | Cloud & Infrastructure Transformation | Cybersecurity | Banking, Government, Telecommunications
 
 ### About Me:
-1. I have over 12 years of experience in enterprise IT — from software dev't and database administration to cloud migration, system administration, app/db performance tuning, & DevOps automation.
+1. I have over 12 years of experience in enterprise IT (software dev't lead, database administration, cloud migration, system administration, performance tuning, infra provisioning, and DevSecOps automation.
 2. I have industry-relevant certifications to back my career experience:
-   | Certification Name                           | Issuing Organization                                                        | Validity              |
-   |----------------------------------------------|-----------------------------------------------------------------------------|-----------------------|
-   | Network+ (N10-009)                           | CompTIA (Computing Technology Industry Association)                         |  Jan 2026 - Jan 2029  |
-   | Security+ (SYO-701)                          | CompTIA (Computing Technology Industry Association)                         |  Oct 2025 - Oct 2028  |
-   | Certified in Cybersecurity (CC)              | ISC2 (International Information System Security Certification Consortium)   |  Feb 2025 - Feb 2028  |
-   | PMP (Project Management Professional)        | PMI (Project Management Institute)                                          |  Nov 2024 - Nov 2027  |
-   | PMI-ACP (Agile Certified Professional)       | PMI (Project Management Institute)                                          |  Sep 2024 - Sep 2027  |
-   | CSM (Certified Scrum Master)                 | Scrum Alliance                                                              |  Jun 2024 - Jun 2026 (renewed)  |
-   | Responsive Web Design Developer Cert         | freeCodeCamp                                                                |  Mar 2025 - n/a       |
-   | MariaDB Certified Database Administrator     | MariaDB Corporation                                                         |  Dec 2019 - n/a       | 
-   | Certified Solutions Architect-Associate      | AWS (Amazon Web Services)                                                   |  Mar 2018 - Mar 2021  |
-   | Certified Database Administration-Associate  | Oracle Corporation                                                          |  Apr 2017 - Apr 2019  |
-4. Future plans include pursuing further certifications in Cybersecurity (CISA, CISM, CISSP) and establishing my own IT Consulting company
+   | Certification Name                                    | Issuing Organization                                                  | Validity              |
+   |-------------------------------------------------------|-----------------------------------------------------------------------|-----------------------|
+   | CISSP (Certified Info. Systems Security Professional  | ISC2 (International Info. System Security Certification Consortium    |  Jan 2026 - Jan 2029  |
+   | Network+ (N10-009)                                    | CompTIA (Computing Technology Industry Association)                   |  Jan 2026 - Jan 2029  |
+   | Security+ (SYO-701)                                   | CompTIA (Computing Technology Industry Association)                   |  Oct 2025 - Oct 2028  |
+   | Certified in Cybersecurity (CC)                       | ISC2 (International Info. System Security Certification Consortium)   |  Feb 2025 - Feb 2028  |
+   | PMP (Project Management Professional)                 | PMI (Project Management Institute)                                    |  Nov 2024 - Nov 2027  |
+   | PMI-ACP (Agile Certified Professional)                | PMI (Project Management Institute)                                    |  Sep 2024 - Sep 2027  |
+   | CSM (Certified Scrum Master)                          | Scrum Alliance                                                        |  Jun 2024 - Jun 2028  |
+   | Responsive Web Design Developer Cert                  | freeCodeCamp                                                          |  Mar 2025 - n/a       |
+   | MariaDB Certified Database Administrator              | MariaDB Corporation                                                   |  Dec 2019 - n/a       | 
+   | Certified Solutions Architect-Associate               | AWS (Amazon Web Services)                                             |  Mar 2018 - Mar 2021  |
+   | Certified Database Administration-Associate           | Oracle Corporation                                                    |  Apr 2017 - Apr 2019  |
+4. Future plans include pursuing further certifications in Cybersecurity (CCSP, CISM) and establishing my own IT Consulting company
 
 ### Technical Areas:
 - Software Development (Java, Python, Full-stack Frameworks, HTML/CSS/Bootstrap)
