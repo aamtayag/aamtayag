@@ -6,7 +6,7 @@
 2. I have industry-relevant certifications to back my career experience:
    | Certification Name                                    | Issuing Organization                                                  | Validity              |
    |-------------------------------------------------------|-----------------------------------------------------------------------|-----------------------|
-   | CISSP (Certified Info. Systems Security Professional  | ISC2 (International Info. System Security Certification Consortium    |  Jan 2026 - Jan 2029  |
+   | CISSP (Certified Info. Systems Security Professional) | ISC2 (International Info. System Security Certification Consortium    |  Jan 2026 - Jan 2029  |
    | Network+ (N10-009)                                    | CompTIA (Computing Technology Industry Association)                   |  Jan 2026 - Jan 2029  |
    | Security+ (SYO-701)                                   | CompTIA (Computing Technology Industry Association)                   |  Oct 2025 - Oct 2028  |
    | Certified in Cybersecurity (CC)                       | ISC2 (International Info. System Security Certification Consortium)   |  Feb 2025 - Feb 2028  |
