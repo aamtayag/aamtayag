@@ -2,7 +2,7 @@
 # Developer, IT Project Manager, DBA | Cloud & Infrastructure Transformation | Cybersecurity | Banking, Government, Telecommunications
 
 ### About Me:
-1. I have over 12 years of experience in enterprise IT (software dev't lead, database administration, cloud migration, system administration, performance tuning, infra provisioning, and DevSecOps automation.
+1. I have over 12 years of experience in Enterprise IT (software project management, database administration, cloud migration, infra provisioning, performance tuning, and DevSecOps automation.
 2. I have industry-relevant certifications to back my career experience:
    | Certification Name                                    | Issuing Organization                                                  | Validity              |
    |-------------------------------------------------------|-----------------------------------------------------------------------|-----------------------|
@@ -17,7 +17,7 @@
    | MariaDB Certified Database Administrator              | MariaDB Corporation                                                   |  Dec 2019 - n/a       | 
    | Certified Solutions Architect-Associate               | AWS (Amazon Web Services)                                             |  Mar 2018 - Mar 2021  |
    | Certified Database Administration-Associate           | Oracle Corporation                                                    |  Apr 2017 - Apr 2019  |
-4. Future plans include pursuing further certifications in Cybersecurity (CCSP, CISM) and establishing my own IT Consulting company
+3. Future plans include pursuing further certifications in Cybersecurity (CCSP, CISM) and establishing my own IT Consulting company
 
 ### Technical Areas:
 - Software Development (Java, Python, Full-stack Frameworks, HTML/CSS/Bootstrap)
