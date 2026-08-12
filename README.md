@@ -1,11 +1,12 @@
 # Arnold Aristotle Tayag
-# Developer, IT Project Manager, DBA | Cloud & Infrastructure Transformation | Cybersecurity | Banking, Government, Telecommunications
+# App Lead, Technical Project Lead, AppSec, DBA  |  CISSP, CCSP, Security+, Network+, CC  |  PMP, PMI-ACP, CSM  |  MSE, MBA
 
 ### About Me:
-1. I have over 12 years of experience in Enterprise IT (software project management, database administration, cloud migration, infra provisioning, performance tuning, and DevSecOps automation.
+1. I have over 12 years of experience in Enterprise IT (application development & security, software project management, database administration, infra provisioning & cloud migration, performance tuning, automation & orchestration.
 2. I have industry-relevant certifications to back my career experience:
    | Certification Name                                    | Issuing Organization                                                  | Validity              |
    |-------------------------------------------------------|-----------------------------------------------------------------------|-----------------------|
+   | CCSP (Certified Cloud Security Professional)          | ISC2 (International Info. System Security Certification Consortium    |  Jun 2026 - Jun 2029  |
    | CISSP (Certified Info. Systems Security Professional) | ISC2 (International Info. System Security Certification Consortium    |  Jan 2026 - Jan 2029  |
    | Network+ (N10-009)                                    | CompTIA (Computing Technology Industry Association)                   |  Jan 2026 - Jan 2029  |
    | Security+ (SYO-701)                                   | CompTIA (Computing Technology Industry Association)                   |  Oct 2025 - Oct 2028  |
@@ -20,13 +21,13 @@
 3. Future plans include pursuing further certifications in Cybersecurity (CCSP, CISM) and establishing my own IT Consulting company
 
 ### Technical Areas:
-- Software Development (Java, Python, Full-stack Frameworks, HTML/CSS/Bootstrap)
-- Database Management (MariaDB, MySQL, Oracle, MSSQL, DynamoDB-NoSQL)
-- Cloud Infrastructure (AWS, Azure)   
+- Software Development (Python, Javascript (Full-stack Frameworks, HTML/CSS/Bootstrap, Java)
+- Scrum Master & Agile project management
+- Database Management (Amazon RDS, MariaDB, MySQL, Oracle, MSSQL, Amazon DynamoDB (NoSQL))
+- Cloud Infrastructure (AWS, Azure, GCP)
 - DevOps & Automation (Bash, Python, PowerShell, CI/CD, Chef/Ansible/Puppet)
 - Application/Database Performance & Monitoring
 - Unix/Linux (Solaris, AIX, RHEL, Ubuntu)
-- Agile Delivery Tools and Scripts
 
 ### Featured Repositories:
 | Project                                                                                  | Description                                           | Tech                                           |
